@@ -1,0 +1,2 @@
+https://lists.blocklist.de/lists/all.txt
+http://cinsscore.com/list/ci-badguys.txt
